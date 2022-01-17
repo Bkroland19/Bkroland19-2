@@ -1,6 +1,6 @@
 # Hi, I'm Bukenya Kizza Roland 👋🏼 👨🏻‍💻
 
-<img src="image/background.png">
+
 
 <br/>
 
@@ -12,8 +12,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
  <div>
   <a href="https://github.com/Bkroland19">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=bisaacm1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisaacm1&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Bkroland19&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
