@@ -4,7 +4,7 @@
 
 <br/>
 
-I'm a full-stack programmer passionate about the best web and mobile development technologies. By having experiences using Flutter,  React js , React Native and JavaScript. I always try to learn in practice about the most modern technologies of web and mobile development.
+I am a competent software developer with 4 years of professional experience in developing android mobile apps with React Native and web apps with React.js and Next.js , tailwind css ,Redux toolkit,React Typescript,Git. I am also well equipped with backend skills such as node.js and working with Mongo Database. My strongest skill is web and mobile application development. I also have a strong foundation in math skills and logical thinking of given tasks. Very eager and flexible to learning new changes in technology.
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
