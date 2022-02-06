@@ -8,7 +8,6 @@ I am a competent software developer with 4 years of professional experience in d
 
 Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
     
-    <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <td >
   <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="300" alt="bukenya kizza roland's Dev Card"/></a>
@@ -20,6 +19,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <br/>
 
+    <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
  ##
