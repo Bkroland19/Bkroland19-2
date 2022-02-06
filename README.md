@@ -1,6 +1,7 @@
 # Hi, I'm Bukenya Kizza Roland 👋🏼 👨🏻‍💻
 
 
+[![Complete Intro to Databases](/static/WORDMARK-Small.png)][course]
 
 <br/>
 
