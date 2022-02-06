@@ -20,6 +20,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <br/>
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bkroland19-Bkroland19&theme=dracula&hide_border=true)
+
+
 
  ##
 
