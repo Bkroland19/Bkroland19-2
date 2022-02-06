@@ -4,11 +4,12 @@
 <table>
 <tr>
   <td valign="center">
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+I am a competent software developer with 4 years of professional experience in developing android mobile apps with React Native and web apps with React.js and Next.js , tailwind css ,Redux toolkit,React Typescript,Git. I am also well equipped with backend skills such as node.js and working with Mongo Database. My strongest skill is web and mobile application development. I also have a strong foundation in math skills and logical thinking of given tasks. Very eager and flexible to learning new changes in technology.
 
+Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 <td >
 # this is my daily.dev card, you can edit this accordingly
-  <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="400" alt="bukenya kizza roland's Dev Card"/></a>
+  <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="300" alt="bukenya kizza roland's Dev Card"/></a>
   </td>
 
 </tr>
@@ -18,9 +19,7 @@
 
 <br/>
 
-I am a competent software developer with 4 years of professional experience in developing android mobile apps with React Native and web apps with React.js and Next.js , tailwind css ,Redux toolkit,React Typescript,Git. I am also well equipped with backend skills such as node.js and working with Mongo Database. My strongest skill is web and mobile application development. I also have a strong foundation in math skills and logical thinking of given tasks. Very eager and flexible to learning new changes in technology.
 
-Please feel free to clone projects, raise issues and submit PRs if you think something could be better.
 
  ##
 
