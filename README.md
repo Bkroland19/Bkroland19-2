@@ -1,6 +1,21 @@
 
 # Hi, I'm  Bukenya Kizza Roland 👋🏼 👨🏻‍💻 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
+<table>
+<tr>
+  <td valign="center">
+    🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
+    🌱 I am currently learning **JavaScript** and also interested in **Mobile App**.
+    🎯 My Goal is to Contribute to as many **open source project** as possible.
+    ✨ I love to create different types of **contents**.
+<td >
+# this is my daily.dev card, you can edit this accordingly
+  <a href="https://app.daily.dev/bkroland19"><img src="https://api.daily.dev/devcards/74efd5e2141a40ec876a4607bf0fd8fd.png?r=8q8" width="400" alt="bukenya kizza roland's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
+
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <br/>
