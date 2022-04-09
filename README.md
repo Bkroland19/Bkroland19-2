@@ -18,7 +18,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 
 <br/>
-
+ 
 
  ##
 
@@ -40,7 +40,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 </div>
   
   ##
- 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bkroland19&layout=compact)](https://github.com/Bkroland19/github-readme-stats)
 <div> 
   <a href = "mailto:bkroland19@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eng-bukenya-kizza-roland-mongodb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
